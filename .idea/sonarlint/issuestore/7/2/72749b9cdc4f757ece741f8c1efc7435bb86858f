@@ -1,0 +1,19 @@
+
+P
+java:S1121 ".Extract the assignment out of this expression.(ßñÇøÿÿÿÿÿ8´Äó™˜1
+P
+java:S1121"".Extract the assignment out of this expression.(Ç»À€ûÿÿÿÿ8´Äó™˜1
+J
+java:S1121$".Extract the assignment out of this expression.(™œ+8´Äó™˜1
+J
+java:S1121&".Extract the assignment out of this expression.(ò›Ão8´Äó™˜1
+\
+java:S1854 ":Remove this useless assignment to local variable "result".(ßñÇøÿÿÿÿÿ8ºÄó™˜1
+\
+java:S1854"":Remove this useless assignment to local variable "result".(Ç»À€ûÿÿÿÿ8ºÄó™˜1
+V
+java:S1854$":Remove this useless assignment to local variable "result".(™œ+8ºÄó™˜1
+V
+java:S1854&":Remove this useless assignment to local variable "result".(ò›Ão8ºÄó™˜1
+H
+java:S1481"+Remove this unused "result" local variable.(ıï‚8ºÄó™˜1
